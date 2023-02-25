@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DDCA218E-1BE6-D10E-F8A7-16491C4E597D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c641ebb8-0131-43e0-b38f-97323261c1f6" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerScaleChange.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="27" Column="40" />
+      <File FileName="Assets/Scripts/CharacterScaleChange.cs" Line="24" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
